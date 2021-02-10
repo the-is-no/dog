@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Challenge 2 Februrary 8 2021",
+"dataUrl": "Challenge 2 Published.data.unityweb",
+"wasmCodeUrl": "Challenge 2 Published.wasm.code.unityweb",
+"wasmFrameworkUrl": "Challenge 2 Published.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
